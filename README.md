@@ -9,8 +9,11 @@ Under
 projects>p2_image_classifier>
 
 Project_Image_Classifier_Project.ipynb
+
 Project_Image_Classifier_Project.html
+
 predict.py
+
 utility.py
 
 
