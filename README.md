@@ -5,7 +5,8 @@ Projects and exercises for the Udacity Intro to Machine Learning with TensorFlow
 
 For project submission review, please see below files:
 
-Under Project files>p2_image_classifier>
+Under 
+projects>p2_image_classifier>
 
 Project_Image_Classifier_Project.ipynb
 Project_Image_Classifier_Project.html
